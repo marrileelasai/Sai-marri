@@ -5,7 +5,6 @@ Tableau project
 🎯 **Data Analyst & Business Analyst** | 3 years experience at **Wipro**  
 🎓 **Master’s in Business Analytics**, Wright State University, USA  
 
-![Analytics GIF](file://www.istockphoto.com/photo/an-analyst-uses-a-computer-and-dashboard-for-data-business-analysis-and-data-gm1480239160-5079808)
 
 ---
 
