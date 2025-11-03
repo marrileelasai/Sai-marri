@@ -2,21 +2,32 @@
 Tableau project
 # Hi there 👋, I'm Marri Leelasai
 
-I am a **Data Analyst & Business Analyst** with **3 years of experience** at Wipro, specializing in turning data into actionable insights and supporting data-driven decision making.  
+🎯 **Data Analyst & Business Analyst** | 3 years experience at **Wipro**  
+🎓 **Master’s in Business Analytics**, Wright State University, USA  
 
-I hold a **Master’s in Business Analytics** from **Wright State University, United States**.  
+![Analytics GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Programming & Querying:** SQL, Python  
-- **Data Visualization:** Power BI, Tableau  
-- **Data Analysis:** Data cleaning, reporting, dashboard creation, KPI tracking  
-- **Other:** Business requirements analysis, data storytelling  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+## 📂 Projects
+
+💻 [Sales Dashboard](https://github.com/YourUsername/sales-dashboard) – Interactive dashboards for business performance tracking  
+💻 [Customer Segmentation](https://github.com/YourUsername/customer-segmentation) – Segmenting customers to improve targeted marketing campaigns  
+💻 [Python Data Analysis](https://github.com/YourUsername/python-data-analysis) – Scripts and notebooks for data cleaning, analysis, and visualization  
 
 ---
 
 ## 📜 Certifications
+
 - SQL Data Essentials  
 - Python for Data Analysis  
 - Power BI  
@@ -24,22 +35,11 @@ I hold a **Master’s in Business Analytics** from **Wright State University, Un
 
 ---
 
-## 💼 Professional Experience
-**Wipro** – Data Analyst & Business Analyst  
-- Worked on end-to-end data analysis and business reporting projects  
-- Built dashboards and visualizations to support business decisions  
-- Collaborated with stakeholders to understand requirements and deliver actionable insights  
+## 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/) | [Email](mailto:your-email@example.com)  
 
 ---
 
-## 🎯 Interests
-- Data storytelling & visualization  
-- Predictive analytics & business intelligence  
-- Exploring new tools in data science and analytics  
-
----
-
-## 📫 Connect with me
-- [LinkedIn](www.linkedin.com/in/marri-sai-7b95551b6)  
-- [Email](mailto:marrileelasai@gmail.com)  
+✨ “Turning data into actionable insights to drive smarter business decisions.”
 
